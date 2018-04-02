@@ -19,8 +19,8 @@ A. Paverd, S. Tamrakar, H.L. Nguyen, P.K. Pendyala, T.D. Nguyen, E. Stobert, T. 
 
 **Teaching Authentication in High Schools: Challenges and Lessons Learned**
 E. Stobert, E. Cavar, L. Malisa & D. Sommer. (2017) Workshop on Advances in Security Education (ASE 2017), Vancouver, Canada. August 2017. USENIX Association.
-* Activities and worksheets described in the paper are available [http://www.syssec.ethz.ch/research/high-school-security-education.html](here) in both English and German, as well as the conference presentation.
-* [https://www.heise.de/newsticker/meldung/Sexualkunde-soll-Unterricht-ueber-IT-Sicherheit-inspirieren-3811231.html](I was interviewed about this work by Heise Online). The article is in German, but the embedded interview videos are in English.
+* Activities and worksheets described in the paper are available [here](http://www.syssec.ethz.ch/research/high-school-security-education.html) in both English and German, as well as the conference presentation.
+* [I was interviewed about this work by Heise Online](https://www.heise.de/newsticker/meldung/Sexualkunde-soll-Unterricht-ueber-IT-Sicherheit-inspirieren-3811231.html). The article is in German, but the embedded interview videos are in English.
 
 
 **2016**
