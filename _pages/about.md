@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Elizabeth</strong> Stobert
-description: <a>Concordia University</a>. 
+description: 
 
 profile:
   align: right
