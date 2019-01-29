@@ -4,6 +4,8 @@ permalink: /publications/
 title: publications
 description: 
 ---
+Additional metrics on the publications below can be found on [Google Scholar](https://scholar.google.ca/citations?user=1otOFaYAAAAJ&hl=en).
+
 **2018**
 
 **The Password Life Cycle**
