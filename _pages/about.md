@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: stobert.png
+  image: stobert.jpg
 
 
 news: true
