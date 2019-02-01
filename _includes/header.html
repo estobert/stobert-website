@@ -4,7 +4,7 @@
 
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
-        <strong>{{ name | first }}</strong> {{ name | last }}
+        {{ name | first }} {{ name | last }}
     </span>
 
     <nav class="site-nav">
