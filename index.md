@@ -1,8 +1,7 @@
 ---
 layout: about
 permalink: /
-title: Elizabeth Stobert
-description: 
+title: about 
 
 profile:
   align: right
