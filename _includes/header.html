@@ -3,8 +3,7 @@
   <div class="wrapper">
 
     <span class="site-title">
-        {% assign name = site.name | split: ' ' %}
-        {{ name | first }} {{ name | last }}
+       <a class="site-title" href="{{ site.baseurl }}/">{{ site.name }}</a>
     </span>
 
     <nav class="site-nav">
