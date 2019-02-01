@@ -16,6 +16,3 @@ Thesis: Memorability of Assigned Random Graphical Passwords
 
 When allowed to select their own passwords, users often choose easily guessed passwords. Assigning random passwords removes this threat, but assigned passwords can be difficult to remember. Graphical passwords are an alternative form of authentication that use images for login and leverage the picture superiority effect for good usability and memorability. This thesis examines the memorability of random assigned graphical passwords, and compares them to text passwords. It also examines how different kinds of memory retrieval (recall, cued-recall, and recognition) affect the memorability of graphical passwords. A study of five password systems showed that participants were able to remember both graphical and text passwords for the duration of the study, but it was difficult to assess the memorability of the passwords because many participants wrote their passwords down. The usability of the schemes varied, but in general, it took longer for participants to login using password schemes that more leveraged recognition memory.
 
-B.A Hons. (Psychology) (2009) Carleton University, Ottawa, ON, Canada (Highest Honours)
-
-B.Math (2008) Carleton University, Ottawa, ON, Canada
