@@ -6,6 +6,22 @@ description:
 ---
 Additional metrics on the publications below can be found on [Google Scholar](https://scholar.google.ca/citations?user=1otOFaYAAAAJ&hl=en).
 
+**2020**
+
+**Understanding Cybersecurity Practices in Emergency Departments**
+E. Stobert, D. Barrera, V. Homier & D. Kollek. (2020) SIGCHI Conference on Human Factors in Computing Systems (CHI 2020), Honolulu, USA. (Accepted, to appear in April 2020).
+
+**Security Matters ... Until Something Else Matters More: Security Notifications on Different Form Factors**
+H. Molyneaux, E. Stobert, I. Kondratova & M. Gaudet. (2020) International Conference on Human-Computer Interaction (HCII 2020), Copenhagen, Denmark. (Accepted, to appear in July 2020).
+
+**2019**
+
+**Understanding Perceptions: User Responses to Browser Warning Messages**
+H. Molyneaux, I. Kondratova & E. Stobert. (2019) International Conference on Human-Computer Interaction (HCII 2019), Orlando, USA. July 2019. LNCS.
+
+**Work in Progress: A Comparative Long-Term Study of Fallback Authentication**
+P. Markert, M. Golla, E Stobert & M. Duermuth. (2019) NDSS Workshop on Usable Security (USEC 2019), San Diego, USA. February 2019. Internet Society.
+
 **2018**
 
 **The Password Life Cycle**
