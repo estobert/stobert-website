@@ -9,7 +9,7 @@ Additional metrics on the publications below can be found on [Google Scholar](ht
 **2020**
 
 **Understanding Cybersecurity Practices in Emergency Departments**
-E. Stobert, D. Barrera, V. Homier & D. Kollek. (2020) SIGCHI Conference on Human Factors in Computing Systems (CHI 2020), Honolulu, USA. (Accepted, to appear in April 2020).
+E. Stobert, D. Barrera, V. Homier & D. Kollek. (2020) SIGCHI Conference on Human Factors in Computing Systems (CHI 2020), Honolulu, USA. (April 2020).
 
 **Security Matters ... Until Something Else Matters More: Security Notifications on Different Form Factors**
 H. Molyneaux, E. Stobert, I. Kondratova & M. Gaudet. (2020) International Conference on Human-Computer Interaction (HCII 2020), Copenhagen, Denmark. (Accepted, to appear in July 2020).
