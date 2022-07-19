@@ -5,5 +5,5 @@ title: contact
 ---
 
 ### Contact
-I can be reached at elizabeth@stobert.ca 
+I can be reached at elizabeth.stobert@carleton.ca
 
