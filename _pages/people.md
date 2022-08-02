@@ -5,7 +5,7 @@ title: SPIRL members
 ---
 
 ### Elizabeth Stobert
-Elizabeth Stobert is the director of 
+![Elizabeth](elizabeth_headshot.png) Elizabeth Stobert is the director of 
 
 
 ### Current Students
