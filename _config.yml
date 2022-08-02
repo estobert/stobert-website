@@ -1,10 +1,10 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Elizabeth Stobert
+name: SPIRL
 email: elizabeth.stobert@carleton.ca
 description: > # this means to ignore newlines until "url:"
-  Elizabeth Stobert's Academic Website
+  The SPIRL Lab Website
 #footer_text: >
 #  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
