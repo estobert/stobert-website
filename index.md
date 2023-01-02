@@ -3,11 +3,6 @@ layout: about
 permalink: /
 title: about 
 
-profile:
-  align: right
-  image: stobert.jpg
-
-
 news: true
 social: false
 ---
