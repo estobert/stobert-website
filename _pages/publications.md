@@ -4,15 +4,48 @@ permalink: /publications/
 title: publications
 description: 
 ---
-Additional metrics on the publications below can be found on [Google Scholar](https://scholar.google.ca/citations?user=1otOFaYAAAAJ&hl=en).
+
+**2022**
+
+**“I don’t really give them piece of mind”: User Perceptions of Social Engineering Attacks**
+L. Kyi & E. Stobert. 
+Proceedings of the Symposium on Electronic Crime Research (eCrime 2022). APWG. Virtual Conference. (December 2022)
+
+**2021**
+
+**Authentication Management of Home IoT Devices** 
+A. Alam, H. Molyneaux & E. Stobert. 
+Proceedings of the International Conference on Human-Computer Interaction (HCII 2021). Springer LNCS. Virtual Conference. (July 2021)
+
+**Emics and Etics of Usable Security** 
+A. Alam, R. Biddle & E. Stobert.
+Proceedings of the International Conference on Human-Computer Interaction (HCII 2021). Springer LNCS. Virtual Conference. (July 2021)
+
+**How Do Users Chain Email Accounts Together?** 
+L. Kraus, M. Svidronova, & E. Stobert. 
+Proceedings of the 36th International Conference on Information Security and Privacy Protection. Springer LNCS. Virtual Conference. (June 2021)
+
+**The EDIT Survey: Identifying Emergency Department Information Technology Knowledge and Training Gaps.** 
+D. Kollek, D. Barrera, E. Stobert, & V. Homier.
+Disaster Medicine and Public Health Preparedness. March 2021. doi: https://doi.org/ 10.1017/dmp.2020.474.
 
 **2020**
 
-**Understanding Cybersecurity Practices in Emergency Departments**
-E. Stobert, D. Barrera, V. Homier & D. Kollek. (2020) SIGCHI Conference on Human Factors in Computing Systems (CHI 2020), Honolulu, USA. (April 2020).
+**ByPass: Reconsidering the Usability of Password Managers** 
+E. Stobert, T. Safaie, H. Molyneaux, A. Youssef & M. Mannan.
+Proceedings of the International Conference on Security and Privacy in Communication Networks (SecureComm 2020). Springer LNCS. Virtual Conference. (October 2020)
+
+**[Short Paper] How Individual Differences Impact Perceived Password Management** 
+L. Kyi, S. Chiasson, & E. Stobert.
+Proceedings of Who Are You?!: Adventures in Authentication Workshop (WAY 2020), Virtual Conference. (August 2020)
 
 **Security Matters ... Until Something Else Matters More: Security Notifications on Different Form Factors**
-H. Molyneaux, E. Stobert, I. Kondratova & M. Gaudet. (2020) International Conference on Human-Computer Interaction (HCII 2020), Copenhagen, Denmark. (Accepted, to appear in July 2020).
+H. Molyneaux, E. Stobert, I. Kondratova & M. Gaudet. International Conference on Human-Computer Interaction (HCII 2020). Springer LNCS. Virtual Conference. (July 2020).
+
+**Understanding Cybersecurity Practices in Emergency Departments**
+E. Stobert, D. Barrera, V. Homier & D. Kollek. 
+SIGCHI Conference on Human Factors in Computing Systems (CHI 2020), Virtual Conference. (April 2020).
+
 
 **2019**
 
@@ -25,15 +58,17 @@ P. Markert, M. Golla, E Stobert & M. Duermuth. (2019) NDSS Workshop on Usable Se
 **2018**
 
 **The Password Life Cycle**
-E. Stobert & R. Biddle. (Accepted 2018) ACM Transactions on Privacy and Security (TOPS). 
+E. Stobert & R. Biddle. (2018) ACM Transactions on Privacy and Security (TOPS). 
+
+**Teaching Authentication as a Life Skill** E. Stobert, E. Cavar, L. Malisa, & D. Sommer. IEEE Security & Privacy Magazine. September-October 2018. 
 
 **Exploring Website Location as a Security Indicator**
 D-Y. Yu, E. Stobert, D. Basin & S. Capkun. (2018) NDSS Workshop on Usable Security (USEC 2018), San Diego, USA. February 2018. Internet Society.
 
-**2017**
-
 **OmniShare: Encrypted Cloud Storage for the Multi-Device Era**
-A. Paverd, S. Tamrakar, H.L. Nguyen, P.K. Pendyala, T.D. Nguyen, E. Stobert, T. Grondahl, N. Asokan & A-R. Sadeghi. (To appear, April 2018). IEEE Internet Computing Magazine. IEEE. Pre-print available on [arXiv](http://arxiv.org/abs/1511.02119).
+A. Paverd, S. Tamrakar, H.L. Nguyen, P.K. Pendyala, T.D. Nguyen, E. Stobert, T. Grondahl, N. Asokan & A-R. Sadeghi. (April 2018). IEEE Internet Computing Magazine. IEEE. Pre-print available on [arXiv](http://arxiv.org/abs/1511.02119).
+
+**2017**
 
 **Teaching Authentication in High Schools: Challenges and Lessons Learned**
 E. Stobert, E. Cavar, L. Malisa & D. Sommer. (2017) Workshop on Advances in Security Education (ASE 2017), Vancouver, Canada. August 2017. USENIX Association.
@@ -101,19 +136,21 @@ E. Stobert, S. Chiasson, & R. Biddle. (2011). Annual Computer Security Applicati
 **2010**
 
 **Exploring Usability Effects of Increased Security in Click-based Graphical Passwords**
-E. Stobert, A. Forget, S. Chiasson, P.C. van Oorschot, & R. Biddle. (2010). Annual Computer Security Applications Conference (ACSAC), December 2010, Austin, TX. ACM.
+E. Stobert, A. Forget, S. Chiasson, P.C. van Oorschot, & R. Biddle.  Annual Computer Security Applications Conference (ACSAC), December 2010, Austin, TX. ACM.
 
 **MVP: A web-based framework for user studies in authentication (Poster)**
-S. Chiasson, C. Deschamps, M. Hlywa, G. Chan, E. Stobert, & R. Biddle. (2010). Symposium on Usable Privacy and Security (SOUPS), July 2010, Redmond, USA.
+S. Chiasson, C. Deschamps, M. Hlywa, G. Chan, E. Stobert, & R. Biddle.  Symposium on Usable Privacy and Security (SOUPS), July 2010, Redmond, USA.
 
 **Persuasion, Social Graces and Computer Security (Poster)**
-E. Stobert, S. Chiasson, & R. Biddle. (2010). Persuasive 2010: The Fifth International Conference on Persuasive Technology. June 2010, Copenhagen, DK. LNCS.
+E. Stobert, S. Chiasson, & R. Biddle. 
+Persuasive 2010: The Fifth International Conference on Persuasive Technology. June 2010, Copenhagen, DK. LNCS.
 
 **Usability and Strength in Click-based Graphical Passwords. (Poster)**
-E. Stobert. (2010). ACM SIGCHI Student Research Competition Entry (CHI SRC), April 2010, Atlanta, USA. ACM.
-* Third place finalist in the undergraduate student research competition.
+E. Stobert. 
+ACM SIGCHI Student Research Competition Entry (CHI SRC). Atlanta, USA, April 2010. ACM.
 
 **2009**
 
 **Multiple Password Interference in Text and Click-based Graphical Passwords**
-S. Chiasson, A. Forget, E. Stobert, P.C. van Oorschot, & R. Biddle. (2009). ACM Computer and Communications Security (CCS). Chicago, USA, November 2009. ACM.
+S. Chiasson, A. Forget, E. Stobert, P.C. van Oorschot, & R. Biddle. 
+ACM Computer and Communications Security (CCS). Chicago, USA, November 2009. ACM.

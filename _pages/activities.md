@@ -13,15 +13,12 @@ I’m the co-organizer and co-founder of [Who are you?!: The Adventures in Authe
 
 ### Program Committees
 
-I have recently served on program committees for: 
+We are serving on the program committee for these upcoming conferences. Please consider submitting!
 
-2020: [SOUPS](https://www.usenix.org/conference/soups2020), [EuroS&P](https://www.ieee-security.org/TC/EuroSP2020/), [SafeThings](https://www.ieee-security.org/TC/SPW2020/SafeThings/#accepted)
+* [SOUPS 2022](https://www.usenix.org/conference/soups2023)
+*[WiSec](https://www.ieee-security.org/TC/EuroSP2020/)
+* [USENIX Security 2023](https://www.ieee-security.org/TC/SPW2020/SafeThings/#accepted)
 
-2019: [EuroUSEC](https://eusec.cs.uchicago.edu/), [SOUPS](https://www.usenix.org/conference/soups2019), [USEC](https://www.ndss-symposium.org/ndss2019/cfp-usec-2019/), [STAST](http://stast.uni.lu/) 
-
-2018: [STAST](http://stast.uni.lu/), [EuroS&P](https://www.ieee-security.org/TC/EuroSP2018/)  
-
-2017: [STAST](http://stast.uni.lu/), [CANS](http://crypto.ie.cuhk.edu.hk/cans17/), [NSPW](https://www.nspw.org/2017), [SOUPS](https://www.usenix.org/conference/soups2017), [EuroUSEC](https://usec.cispa.uni-saarland.de/eurousec17/)
 
 
 ### Teaching

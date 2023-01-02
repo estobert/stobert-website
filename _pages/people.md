@@ -4,42 +4,42 @@ permalink: /people/
 title: SPIRL members
 ---
 
-### Elizabeth Stobert
-![Elizabeth](/assets/img/elizabeth_headshot.png) Elizabeth Stobert is the director of SPIRL and a 
+## Elizabeth Stobert
+![Elizabeth](/assets/img/elizabeth_headshot.png) Elizabeth Stobert is an assistant professor in the School of Computer Science, and co-director of the HCI Masters program at Carleton University. 
 
 
-### Current Students
+## Current Students
 
-![Aniqa](/least-github-pages/assets/logo.png) #### Aniqa Alam
+### Aniqa Alam
+Aniqa Alam is working on a PhD in computer science. Her research interests are in culture and usable security, and her masters thesis examined how culture affects password sharing in Bangladesh.
 
-![Sveta](/least-github-pages/assets/logo.png) #### Svetlana Dobrynina
+### Mary-Emma Barnhill
+Mary-Emma Barnhill is completing an i-Cureus fellowship in the SPIRL lab, looking at how pronounceable passwords can be designed to be more memorable.
 
-![Clarissa](/least-github-pages/assets/logo.png) #### Clarissa Fernandes
+### Svetlana Dobrynina
+Svetlana Dobrynina is working on a Masters of HCI. Her thesis research is examining users' mental models of password managers.
 
-![Kalumbu](/least-github-pages/assets/logo.png) #### Kalumbu Kasaji
+### Clarissa Fernandes
+Clarissa Fernandes is completing her Bachelor of Computer Science. For her honours project in computer science, she conducted a survey inquiring about users' preparations for handling their digital legacies.
 
-![Adam](/least-github-pages/assets/logo.png) #### Adam Khachi
+### Kalumbu Kasaji
+Kalumbu Kasaji is a undergraduate student in computer science. She completed a Dean's Summer Research Internship in the SPIRL lab, and is continuing work on a graphical password project.
 
-![Paola](/least-github-pages/assets/logo.png) #### Paola Marmorato
+### Paola Marmorato
+Paola Marmorato is working on her Masters of HCI. Her research interests are in usable security and aging in place.
 
-![Joy](/least-github-pages/assets/logo.png) #### Joy Smith
+### Ruchi Swami
+Ruchi Swami is working on her Masters of HCI. Her research interests are in usable security and aging in place.
 
-![Ruchi](/least-github-pages/assets/logo.png) #### Ruchi Swami
+## Alumni
+
+* Meera Balsara
+* Jake Bauer 
+* Adam Khachi
+* Lin Kyi
+* Samuel Mitchell
+* Tina Safaie
+* Joy Smith
+* Guillaume St-Pierre 
 
 
-### Alumni
-
-#### Lin Kyi
-#### Meera Balsara
-#### Samuel Mitchell
-#### Guillaume St-Pierre
-#### Jake Bauer
-
-
-### Teaching
-
-In 2020-2021, I will be teaching: 
-
-- HCIN 5100: Fundamentals of HCI Design and Evaluation
-- COMP 5210: HCI Models, Theories & Frameworks
-- COMP 3301: Technical Writing for Computer Science
