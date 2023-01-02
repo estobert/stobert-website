@@ -5,8 +5,10 @@ title: SPIRL members
 ---
 
 ## Elizabeth Stobert
-<img src="assets/img/stobert_headshot.jpeg" width="150" align="left">
- Elizabeth Stobert is an assistant professor in the School of Computer Science, and co-director of the HCI Masters program at Carleton University. 
+<img src="https://spirl.scs.carleton.ca/stobert_headshot.jpeg" width="150" align="left" hspace="7" vspace="1">
+ Elizabeth Stobert is an assistant professor in the School of Computer Science, and co-director of the HCI Masters program at Carleton University. Prior to joining Carleton University she worked at the National Research Council of Canada, and held postdoctoral fellowships at ETH Zurich and Concordia University. 
+
+
 
 
 ## Current Students
