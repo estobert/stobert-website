@@ -5,6 +5,12 @@ title: about
 
 news: true
 social: false
+
+profile:
+   align: left
+   image: spirl-logo.png
+
+
 ---
 # SPIRL
 
