@@ -18,8 +18,6 @@ title: SPIRL members
 
 **Mary-Emma Barnhill** is completing an i-Cureus fellowship in the SPIRL lab, looking at how pronounceable passwords can be designed to be more memorable.
 
-**Svetlana Dobrynina** is working on a Masters of HCI. Her thesis research is examining users' mental models of password managers.
-
 **Clarissa Fernandes** is completing her Bachelor of Computer Science. For her honours project in computer science, she conducted a survey inquiring about users' preparations for handling their digital legacies.
 
 **Kalumbu Kasaji** is an undergraduate student in computer science. She completed a Dean's Summer Research Internship in the SPIRL lab, and is continuing work on a graphical password project.
@@ -33,7 +31,8 @@ title: SPIRL members
 ## Alumni
 
 * Meera Balsara
-* Jake Bauer 
+* Jake Bauer
+* Svetlana Dobrynina
 * Adam Khachi
 * Lin Kyi
 * Samuel Mitchell
