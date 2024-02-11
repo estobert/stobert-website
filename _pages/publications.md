@@ -5,6 +5,26 @@ title: publications
 description: 
 ---
 
+**2024**
+
+**"I’m not planning on dying any time soon": A survey of digital legacy planning**
+P. Marmorato, C. Fernandes, L. Kraus & E. Stobert. 
+Proceedings of the International Conference on Human-Computer Interaction (HCII 2024). Springer LNCS. (To appear July 2024)
+
+**A Comparative Long-Term Study of Fallback Authentication Schemes**
+L. Lassak, P. Markert, M. Golla, E. Stobert, & M. Duermuth. 
+The CHI Conference on Human Factors in Computing Systems (CHI 2024). (To Appear, May 2024)
+
+**2023**
+
+**[Short Paper] Contextualizing Privacy for Older Adults in Canada**
+P. Marmorato, R. Swami, S. Kamath, N. Asikaer, H. Molyneaux, C. Munteanu & E. Stobert. 
+Proceedings of the Symposium on Applications of Contextual Integrity (CI ’23). (September 2023)
+
+**"This is different from the Western world": Understanding Password Sharing Among Young Bangladeshis**
+A. Alam, E. Stobert, & R. Biddle. 
+2023 Workshop on Usable Security and Privacy (USEC 2023). (February 2023)
+
 **2022**
 
 **“I don’t really give them piece of mind”: User Perceptions of Social Engineering Attacks**
