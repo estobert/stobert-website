@@ -19,6 +19,8 @@ title: SPIRL members
 
 <img src="/marmorato_headshot.jpg" width="150" align="left" hspace="7" vspace="1">
 **Paola Marmorato** is working on her Masters of HCI and will start her PhD in Computer Science next fall. Her research interests are in usable security and privacy for aging in place.
+<br />
+<br />
 
 **Ruchi Swami** is working on her Masters of HCI. Her research interests are in usable security and aging in place. She is working on investigating socially supported technical assistance for older adults.
 
@@ -30,6 +32,8 @@ title: SPIRL members
 
 <img src="/sheikh_headshot.jpg" width="150" align="left" hspace="7" vspace="1">
 **Nuha Sheikh** is pursuing an undergraduate Computer Science degree with a double minor in Psychology and Design. Her thesis focuses on Transnational Identities in Account Sharing and Management.
+<br />
+<br />
 
 **Robert Babaev** is a computer science honours student in his final year, working on a thesis revolving around password sharing and access control. His research interests include usable security and authentication.
 
