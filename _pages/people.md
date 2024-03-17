@@ -22,6 +22,8 @@ Aniqa Alam is working on a PhD in computer science. Her research interests are i
 <img src="/marmorato_headshot.jpg" width="150" align="left" hspace="7" vspace="1">
 Paola Marmorato is working on her Masters of HCI and will start her PhD in Computer Science next fall. Her research interests are in usable security and privacy for aging in place.
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### Ruchi Swami
 Ruchi Swami is working on her Masters of HCI. Her research interests are in usable security and aging in place. She is working on investigating socially supported technical assistance for older adults.
@@ -37,6 +39,7 @@ Hediyeh Motaghian is working on her Masters of HCI. Her research interests are i
 ### Nuha Sheikh
 <img src="/sheikh_headshot.jpg" width="150" align="left" hspace="7" vspace="1">
 Nuha Sheikh is pursuing an undergraduate Computer Science degree with a double minor in Psychology and Design. Her thesis focuses on Transnational Identities in Account Sharing and Management.
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
