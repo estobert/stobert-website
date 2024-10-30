@@ -1,8 +1,14 @@
+.member {
+    display: flex;
+    align-items: flex-start; /* Aligns items at the top */
+    margin-bottom: 20px; /* Space between each member section */
+    max-width: 600px; /* Adjust this as needed */
+}
+
 .member-photo {
-    width: 150px !important; /* Force fixed size */
+    width: 150px !important;
     height: 150px !important;
-    object-fit: cover !important; /* Ensures the image fills the circle */
-    border-radius: 50% !important; /* Makes the image circular */
-    float: left !important;
-    margin-right: 15px !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+    margin-right: 15px !important; /* Space between image and text */
 }
