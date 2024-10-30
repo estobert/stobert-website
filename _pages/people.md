@@ -14,16 +14,24 @@ title: SPIRL members
 
 ## Current Students
 
+### Christine Murad
+
+Christine is a Post-Doctoral Fellow at the School of Computer Science at Carleton University, and a Research Associate in the Systems Design Engineering department at the University of Waterloo. Her research interests are in the design of conversational voice interfaces and the development of design heuristics and tools for VUI design. Her current work is on Usable Privacy for voice-based IoT agents for older adults.
+
+
 ### Aniqa Alam
 
 Aniqa Alam is working on a PhD in computer science. Her research interests are in culture and usable security, and her masters thesis examined how culture affects password sharing in Bangladesh.
 
 ### Paola Marmorato
 <img src="/marmorato_headshot.jpg" width="150" align="left" hspace="7" vspace="1">
-Paola Marmorato is working on her Masters of HCI and will start her PhD in Computer Science next fall. Her research interests are in usable security and privacy for aging in place.
+Paola is currently working on her PhD in computer science. She has a background in clinical psychology and holds a master's degree in Human-Computer Interaction (HCI). For her master’s thesis at SPIRL, she studied older adults' privacy and security practices in online dating. Her research interests focus on usable security and privacy for aging in place, as well as the intersections of psychology and computer science.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+### Michaela Valiquette 
+Michaela is pursuing her Master’s in HCI. Her research interests include usable security and privacy in designs.
 
 ### Ruchi Swami
 Ruchi Swami is working on her Masters of HCI. Her research interests are in usable security and aging in place. She is working on investigating socially supported technical assistance for older adults.
@@ -48,7 +56,6 @@ Robert Babaev is a computer science honours student in his final year, working o
 
 ### Kalumbu Kasaji
 Kalumbu Kasaji is an undergraduate student in computer science. She completed a Dean's Summer Research Internship in the SPIRL lab, and is continuing work on a graphical password project.
-
 
 
 ## Alumni
