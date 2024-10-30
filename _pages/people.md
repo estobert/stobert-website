@@ -12,7 +12,7 @@ title: SPIRL members
 <p>&nbsp;</p>
 
 
-## Post-Doctoral Fellow
+## Post-Doctoral
 
 ### Christine Murad
 
