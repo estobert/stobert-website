@@ -22,7 +22,7 @@ Christine is a Post-Doctoral Fellow at the School of Computer Science at Carleto
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## PhD Students 
+## PhD
 
 ### Aniqa Alam
 
@@ -35,7 +35,7 @@ Paola is currently working on her PhD in computer science. She has a background 
 <p>&nbsp;</p>
 
 
-## Master Students
+## Master
 
 ### Michaela Valiquette 
 <img src="/assets/img/michaela_photo.jpg" width="150" align="left" hspace="7" vspace="1">
@@ -58,14 +58,16 @@ Hediyeh Motaghian is working on her Masters of HCI. Her research interests are i
 
 ### Chanthea Quinland
 
-## Undergraduate Students 
-
-### Ana Andrushchak
+## Undergraduate
 
 ### Kalumbu Kasaji
-Kalumbu Kasaji is an undergraduate student in computer science. She completed a Dean's Summer Research Internship in the SPIRL lab, and is continuing work on a graphical password project.
+Kalumbu Kasaji is an undergraduate student in computer science. She completed a Dean's Summer Research and I-CUREUS Internship in the SPIRL lab. She is continuing work on a graphical password project.
 
 ### Mary-Emma Barnhill
+
+Mary-Emma is an undergraduate student in computer science. She completed previous research in the SPIRL lab on user perceptions of pronounceable passwords and is continuing work on a pronounceable password project.
+
+### Ana Andrushchak
 
 ## Alumni
 
