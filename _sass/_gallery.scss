@@ -40,3 +40,16 @@ figcaption {
     vertical-align: middle;
     font-size: $caption-font-size;
 }
+
+
+/ remove if doesn't work
+.member-photo {
+    width: 150px !important; /* Sets a fixed size */
+    height: 150px !important;
+    object-fit: cover !important; /* Ensures the image fills the circle */
+    border-radius: 50% !important; /* Makes the image circular */
+    float: left !important; /* Aligns image to the left */
+    margin-right: 15px !important; /* Space between image and text */
+}
+
+
