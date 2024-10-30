@@ -61,11 +61,24 @@ Hediyeh Motaghian is working on her Masters of HCI. Her research interests are i
 ## Undergraduate
 
 ### Kalumbu Kasaji
+
+<img src="/assets/img/kalumbu_photo.jpg" width="150" align="left" hspace="7" vspace="1">
 Kalumbu Kasaji is an undergraduate student in computer science. She completed a Dean's Summer Research and I-CUREUS Internship in the SPIRL lab. She is continuing work on a graphical password project.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### Mary-Emma Barnhill
 
+<img src="/assets/img/mary_photo.jpg" width="150" align="left" hspace="7" vspace="1">
 Mary-Emma is an undergraduate student in computer science. She completed previous research in the SPIRL lab on user perceptions of pronounceable passwords and is continuing work on a pronounceable password project.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### Ana Andrushchak
 
