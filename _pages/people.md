@@ -56,6 +56,7 @@ Sarah Abdi is working on her Masters of HCI. Her research interests are in psych
 ### Hediyeh Motaghian
 Hediyeh Motaghian is working on her Masters of HCI. Her research interests are in learning management systems and security and privacy.
 
+
 ## Undergraduate Students 
 
 ### Ana Andrushchak
