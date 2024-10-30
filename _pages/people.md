@@ -56,29 +56,23 @@ Sarah Abdi is working on her Masters of HCI. Her research interests are in psych
 ### Hediyeh Motaghian
 Hediyeh Motaghian is working on her Masters of HCI. Her research interests are in learning management systems and security and privacy.
 
+### Chanthea Quinland
 
 ## Undergraduate Students 
 
 ### Ana Andrushchak
 
-### Nuha Sheikh
-<img src="/sheikh_headshot.jpg" width="150" align="left" hspace="7" vspace="1">
-Nuha Sheikh is pursuing an undergraduate Computer Science degree with a double minor in Psychology and Design. Her thesis focuses on Transnational Identities in Account Sharing and Management.
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-### Robert Babaev
-Robert Babaev is a computer science honours student in his final year, working on a thesis revolving around password sharing and access control. His research interests include usable security and authentication.
-
 ### Kalumbu Kasaji
 Kalumbu Kasaji is an undergraduate student in computer science. She completed a Dean's Summer Research Internship in the SPIRL lab, and is continuing work on a graphical password project.
 
+### Mary-Emma Barnhill
 
 ## Alumni
 
+* Zaine Moodie
+* Robert Babaev
+* Nuha Sheikh
 * Zeynep Kocacenk
-* Mary-Emma Barnhill
 * Clarissa Fernandes
 * Meera Balsara
 * Jake Bauer
