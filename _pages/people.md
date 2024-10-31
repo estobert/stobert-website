@@ -47,6 +47,10 @@ Michaela is pursuing her Master’s in HCI. Her research interests include usabl
 
 <br>
 
+### Ana Andrushchak
+
+Anastasiya (Ana) is a master's student in computer science. She is currently researching the mental models of containers and how it impacts security. Her research interests are security and the cloud.  
+
 ### Ruchi Swami
 Ruchi is working on her Masters of HCI. Her research interests are in usable security and aging in place. She is working on investigating socially supported technical assistance for older adults.
 
@@ -55,6 +59,7 @@ Sarah Abdi is working on her Masters of HCI. Her research interests are in psych
 
 ### Hediyeh Motaghian
 Hediyeh Motaghian is working on her Masters of HCI. Her research interests are in learning management systems and security and privacy.
+
 
 ### Chanthea Quinland
 
@@ -79,8 +84,6 @@ Mary-Emma is an undergraduate student in computer science. She completed previou
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-### Ana Andrushchak
 
 ## Alumni
 
