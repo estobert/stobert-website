@@ -67,11 +67,20 @@ Ruchi is working on her Masters of HCI. Her research interests are in usable sec
 Sarah Abdi is working on her Masters of HCI. Her research interests are in psychology, web design, and usable privacy and security.
 
 ### Hediyeh Motaghian
+<img src="/assets/img/hediye_photo.jpg" width="150" align="left" hspace="7" vspace="1">
 Hediyeh Motaghian holds a master’s degree in information technology management and conducted research on adoption of web-based learning systems. Currently, she is working on her master’s of HCI. Her research interests are in adoption of security and privacy technologies and usable security and privacy for online learning management systems.
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### Chanthea Quinland
+<img src="/assets/img/chantea_photo.jpg" width="150" align="left" hspace="7" vspace="1">
 Chanthea is a Masters in Human Computer Interaction student. Her area of interest is Cybersecurity education and awareness & training. Interested in ways to educated vulnerable communities and write people centered policies.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Undergraduate
 
